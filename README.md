@@ -1,4 +1,4 @@
-# Coursera Neural Networks and Deep Learning
+# Coursera: Neural Networks and Deep Learning by Andrew Ng
 
 Course description: https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
 
